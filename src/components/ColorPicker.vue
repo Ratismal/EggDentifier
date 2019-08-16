@@ -6,12 +6,14 @@
     </div>
     <div class="color-dropdown" v-if="active">
       <div class="colors">
-        <span
-          v-if="blank"
-          class="color-preview"
-          :style="background()"
-          @click.prevent="selectColor()"
-        />
+        <div class="color">
+          <span
+            v-if="blank"
+            class="color-preview"
+            :style="background()"
+            @click.prevent="selectColor()"
+          />
+        </div>
         <div class="color" v-for="(color, key) in d.colors" :key="key">
           <span class="color-preview" :style="background(color)" @click.prevent="selectColor(key)" />
         </div>
@@ -40,6 +42,7 @@ export default {
   },
   methods: {
     background(color) {
+      console.log(color);
       return { "background-color": color ? color.value : "#000000" };
     },
     selectColor(key) {

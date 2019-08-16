@@ -40,6 +40,7 @@ export default {
   },
   mounted() {
     if (localStorage.state) this.state = localStorage.state;
+    console.log(this.data);
   },
   methods: {
     setState(state) {
