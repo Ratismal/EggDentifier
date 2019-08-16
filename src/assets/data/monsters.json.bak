@@ -1,0 +1,254 @@
+{
+    "aptonoth": {
+        "name": "Aptonoth",
+        "location": "Pondry Hills",
+        "pattern": "herbivore",
+        "rank": "low",
+        "back": [
+            "green",
+            "pink"
+        ],
+        "front": [
+            "grey",
+            "orange"
+        ]
+    },
+    "velocidrome": {
+        "name": "Velocidrome",
+        "location": "Pondry Hills",
+        "pattern": "birdWyvern",
+        "rank": "low",
+        "back": [
+            "blue",
+            "pink"
+        ],
+        "front": [
+            "orange",
+            "offOrange"
+        ]
+    },
+    "arzuros": {
+        "name": "Arzuros",
+        "location": "Pondry Hills",
+        "pattern": "fangedBeast",
+        "rank": "low",
+        "back": [
+            "darkBlue",
+            "electricGreen"
+        ],
+        "front": [
+            "darkGreen",
+            "lightBlue"
+        ]
+    },
+    "yianKutKu": {
+        "name": "Yian Kut-Ku",
+        "location": "Pondry Hills",
+        "pattern": "birdWyvern",
+        "rank": "low",
+        "back": [
+            "hotPink",
+            "gold"
+        ],
+        "front": [
+            "darkBlue",
+            "lightBlue"
+        ]
+    },
+    "blueYianKutKu": {
+        "name": "Blue Yian Kut-Ku",
+        "location": "Pondry Hills",
+        "pattern": "birdWyvern",
+        "rank": "low",
+        "back": [
+            "mintGreen",
+            "electricGreen"
+        ],
+        "front": [
+            "gold",
+            "cyan"
+        ]
+    },
+    "popo": {
+        "name": "Popo",
+        "location": "Darj Snowfields",
+        "pattern": "herbivore",
+        "rank": "low",
+        "back": [
+            "mintGreen",
+            "chocolate"
+        ],
+        "front": [
+            "purple",
+            "gold"
+        ]
+    },
+    "lagombi": {
+        "name": "Lagombi",
+        "location": "Darj Snowfields",
+        "pattern": "fangedBeast",
+        "rank": "low",
+        "back": [
+            "pale",
+            "pink"
+        ],
+        "front": [
+            "purple",
+            "orange"
+        ]
+    },
+    "bulldrome": {
+        "name": "Bulldrome",
+        "location": "Darj Snowfields",
+        "pattern": "fangedBeast",
+        "rank": "low",
+        "back": [
+            "yellow",
+            "brown"
+        ],
+        "front": [
+            "tan",
+            "freshGreen"
+        ]
+    },
+    "zamtrois": {
+        "name": "Zamtrois",
+        "location": "Darj Snowfields",
+        "pattern": "carapaceon",
+        "rank": "low",
+        "back": [
+            "gold",
+            "cyan"
+        ],
+        "front": [
+            "orange",
+            "freshGreen"
+        ]
+    },
+    "khezu": {
+        "name": "Khezu",
+        "location": "Darj Snowfields",
+        "pattern": "flyingWyvern",
+        "rank": "low",
+        "back": [
+            "lightBlue",
+            "gold"
+        ],
+        "front": [
+            "pink",
+            "freshGreen"
+        ]
+    },
+    "redKhezu": {
+        "name": "Red Khezu (inaccurate)",
+        "location": "Darj Snowfields",
+        "pattern": "flyingWyvern",
+        "rank": "low",
+        "back": [
+            "orangeRed",
+            "tan"
+        ],
+        "front": [
+            "red",
+            "pink"
+        ]
+    },
+    "apceros": {
+        "name": "Apceros",
+        "location": "Monsonne Plains",
+        "pattern": "herbivore",
+        "rank": "low",
+        "back": [
+            "gold",
+            "orangeRed"
+        ],
+        "front": [
+            "tan",
+            "freshGreen"
+        ]
+    },
+    "gendrome": {
+        "name": "Gendrome",
+        "location": "Monsonne Plains",
+        "pattern": "birdWyvern",
+        "rank": "low",
+        "back": [
+            "hotPink",
+            "freshGreen"
+        ],
+        "front": [
+            "offOrange",
+            "orangeRed"
+        ]
+    },
+    "royalLudroth": {
+        "name": "Royal Ludroth",
+        "location": "Monsonne Plains",
+        "pattern": "leviathan",
+        "rank": "low",
+        "back": [
+            "gold",
+            "pink"
+        ],
+        "front": [
+            "chocolate",
+            "freshGreen"
+        ]
+    },
+    "gypceros": {
+        "name": "Gypceros",
+        "location": "Babda Rainforest",
+        "pattern": "birdWyvern",
+        "rank": "low",
+        "back": [
+            "cyan",
+            "yellow"
+        ],
+        "front": [
+            "freshGreen",
+            "hotPink"
+        ]
+    },
+    "nerscylla": {
+        "name": "Nerscylla",
+        "location": "Babda Rainforest",
+        "pattern": "temnoceran",
+        "rank": "low",
+        "back": [
+            "tan",
+            "purple"
+        ],
+        "front": [
+            "red",
+            "yellow"
+        ]
+    },
+    "shroudedNerscylla": {
+        "name": "Shrouded Nerscylla",
+        "location": "Trese Desert",
+        "pattern": "temnoceran",
+        "rank": "low",
+        "back": [
+            "cyan",
+            "fadedBlue"
+        ],
+        "front": [
+            "darkBlue",
+            "gold"
+        ]
+    },
+    "qurupeco": {
+        "name": "Qurupeco",
+        "location": "Monsonne Plains",
+        "pattern": "birdWyvern",
+        "rank": "low",
+        "back": [
+            "freshGreen",
+            "gold"
+        ],
+        "front": [
+            "darkGreen",
+            "purple"
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "herbivore": {
+        "name": "Herbivore",
+        "src": "stripesHS.png"
+    },
+    "birdWyvern": {
+        "name": "Bird Wyvern",
+        "src": "speckled.png"
+    },
+    "flyingWyvern": {
+        "name": "Flying Wyvern",
+        "src": "zebra.png"
+    },
+    "bruteWyvern": {
+        "name": "Brute Wyvern",
+        "src": "jittersH.png"
+    },
+    "fangedWyvern": {
+        "name": "Fanged Wyvern",
+        "src": "jittersV.png"
+    },
+    "piscineWyvern": {
+        "name": "Piscine Wyvern",
+        "src": "dots.png"
+    },
+    "fangedBeast": {
+        "name": "Fanged Beast",
+        "src": "sparks.png"
+    },
+    "elder": {
+        "name": "Elder Dragon",
+        "src": "stars.png"
+    },
+    "leviathan": {
+        "name": "Leviathan",
+        "src": "stripesH.png"
+    },
+    "temnoceran": {
+        "name": "Temnoceran",
+        "src": "stripesV.png"
+    },
+    "carapaceon": {
+        "name": "Carapaceon",
+        "src": "stripesVS.png"
+    },
+    "poogie": {
+        "name": "Poogie",
+        "src": "poogie.png"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "green": {
+        "name": "Green",
+        "value": "#73991C"
+    },
+    "darkGreen": {
+        "name": "Dark Green",
+        "value": "#199B52"
+    },
+    "freshGreen": {
+        "name": "Fresh Green",
+        "value": "#75C326"
+    },
+    "electricGreen": {
+        "name": "Electric Green",
+        "value": "#6FEA77"
+    },
+    "mintGreen": {
+        "name": "Mint Green",
+        "value": "#04C798"
+    },
+    "blue": {
+        "name": "Blue",
+        "value": "#2FB8F9"
+    },
+    "lightBlue": {
+        "name": "Light Blue",
+        "value": "#14D3E4"
+    },
+    "fadedBlue": {
+        "name": "Faded Blue",
+        "value": "#C8D5E7"
+    },
+    "darkBlue": {
+        "name": "Dark Blue",
+        "value": "#5D70E5"
+    },
+    "cyan": {
+        "name": "Cyan",
+        "value": "#02BCBC"
+    },
+    "purple": {
+        "name": "Purple",
+        "value": "#9275E8"
+    },
+    "pink": {
+        "name": "Pink",
+        "value": "#E89CBA"
+    },
+    "hotPink": {
+        "name": "Hot Pink",
+        "value": "#EA65C9"
+    },
+    "red": {
+        "name": "Red",
+        "value": "#CE0D0C"
+    },
+    "orangeRed": {
+        "name": "Orange Red",
+        "value": "#E75B3D"
+    },
+    "orange": {
+        "name": "Orange",
+        "value": "#CE6616"
+    },
+    "offOrange": {
+        "name": "Off Orange",
+        "value": "#DF876C"
+    },
+    "yellow": {
+        "name": "Yellow",
+        "value": "#F7EE8F"
+    },
+    "gold": {
+        "name": "Gold",
+        "value": "#DFBC18"
+    },
+    "grey": {
+        "name": "Grey",
+        "value": "#6C5E5C"
+    },
+    "pale": {
+        "name": "Pale",
+        "value": "#E4EAC8"
+    },
+    "brown": {
+        "name": "Brown",
+        "value": "#9F6644"
+    },
+    "chocolate": {
+        "name": "Chocolate",
+        "value": "#A95830"
+    },
+    "khaki": {
+        "name": "Khaki",
+        "value": "#928C6E"
+    },
+    "yellowBrown": {
+        "name": "Yellow Brown",
+        "value": "#EFAA19"
+    },
+    "tan": {
+        "name": "Tan",
+        "value": "#CFA66F"
+    }
+}

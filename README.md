@@ -1,4 +1,10 @@
-# egg-calculator
+# eggdentifier
+
+identifies eggs from Monster Hunter Stories
+
+because there's so many ;w;
+
+TODO: HR eggs
 
 ## Project setup
 ```
