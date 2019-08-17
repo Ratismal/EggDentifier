@@ -72,6 +72,7 @@ export default {
   },
   methods: {
     doSync(i, type, event) {
+      console.log("syncing");
       if (this.sync) {
         this.monster[type][i] = event;
       }

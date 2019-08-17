@@ -35,6 +35,11 @@ export default {
       color: this.value
     };
   },
+  watch: {
+    value(val) {
+      this.color = val;
+    }
+  },
   computed: {
     currentColor() {
       return this.d.colors[this.color];
@@ -42,7 +47,6 @@ export default {
   },
   methods: {
     background(color) {
-      console.log(color);
       return { "background-color": color ? color.value : "#000000" };
     },
     selectColor(key) {
