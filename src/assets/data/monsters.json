@@ -30,9 +30,9 @@
         ],
         "front": [
             "orange",
-            "offOrange",
             "orange",
-            "offOrange"
+            "orange",
+            "orange"
         ]
     },
     "arzuros": {
@@ -77,8 +77,8 @@
         "pattern": "birdWyvern",
         "rank": "low",
         "back": [
-            "mintGreen",
-            "mintGreen",
+            "cyan",
+            "cyan",
             "electricGreen",
             "electricGreen"
         ],
@@ -95,10 +95,10 @@
         "pattern": "herbivore",
         "rank": "low",
         "back": [
-            "mintGreen",
-            "mintGreen",
-            "chocolate",
-            "chocolate"
+            "cyan",
+            "cyan",
+            "brown",
+            "brown"
         ],
         "front": [
             "purple",
@@ -138,9 +138,9 @@
         ],
         "front": [
             "tan",
-            "freshGreen",
+            "green",
             "tan",
-            "freshGreen"
+            "green"
         ]
     },
     "zamtrois": {
@@ -156,9 +156,9 @@
         ],
         "front": [
             "orange",
-            "freshGreen",
+            "green",
             "orange",
-            "freshGreen"
+            "green"
         ]
     },
     "khezu": {
@@ -174,27 +174,27 @@
         ],
         "front": [
             "pink",
-            "freshGreen",
+            "green",
             "pink",
-            "freshGreen"
+            "green"
         ]
     },
     "redKhezu": {
-        "name": "Red Khezu (inaccurate)",
+        "name": "Red Khezu",
         "location": "Darj Snowfields",
         "pattern": "flyingWyvern",
         "rank": "low",
         "back": [
             "orangeRed",
-            "orangeRed",
-            "tan",
-            "tan"
+            "pink",
+            "pink",
+            "pink"
         ],
         "front": [
             "red",
-            "pink",
+            "orangeRed",
             "red",
-            "pink"
+            "orangeRed"
         ]
     },
     "apceros": {
@@ -210,9 +210,9 @@
         ],
         "front": [
             "tan",
-            "freshGreen",
+            "green",
             "tan",
-            "freshGreen"
+            "green"
         ]
     },
     "gendrome": {
@@ -223,13 +223,13 @@
         "back": [
             "hotPink",
             "hotPink",
-            "freshGreen",
-            "freshGreen"
+            "green",
+            "green"
         ],
         "front": [
-            "offOrange",
+            "orange",
             "orangeRed",
-            "offOrange",
+            "orange",
             "orangeRed"
         ]
     },
@@ -245,10 +245,10 @@
             "pink"
         ],
         "front": [
-            "chocolate",
-            "freshGreen",
-            "chocolate",
-            "freshGreen"
+            "brown",
+            "green",
+            "brown",
+            "green"
         ]
     },
     "gypceros": {
@@ -263,9 +263,9 @@
             "yellow"
         ],
         "front": [
-            "freshGreen",
+            "green",
             "hotPink",
-            "freshGreen",
+            "green",
             "hotPink"
         ]
     },
@@ -311,8 +311,8 @@
         "pattern": "birdWyvern",
         "rank": "low",
         "back": [
-            "freshGreen",
-            "freshGreen",
+            "green",
+            "green",
             "gold",
             "gold"
         ],
@@ -331,14 +331,14 @@
         "back": [
             "pink",
             "pale",
-            "freshGreen",
+            "green",
             "pale"
         ],
         "front": [
             "orangeRed",
             "pink",
             "orangeRed",
-            "freshGreen"
+            "green"
         ]
     },
     "pinkRathian": {
@@ -347,8 +347,8 @@
         "pattern": "flyingWyvern",
         "rank": "low",
         "back": [
-            "freshGreen",
-            "freshGreen",
+            "green",
+            "green",
             "tan",
             "pink"
         ],
@@ -365,10 +365,10 @@
         "pattern": "bruteWyvern",
         "rank": "low",
         "back": [
-            "mintGreen",
-            "mintGreen",
-            "chocolate",
-            "chocolate"
+            "cyan",
+            "cyan",
+            "brown",
+            "brown"
         ],
         "front": [
             "purple",
@@ -439,8 +439,8 @@
         "back": [
             "orange",
             "orange",
-            "freshGreen",
-            "freshGreen"
+            "green",
+            "green"
         ],
         "front": [
             "darkBlue",
@@ -462,9 +462,9 @@
         ],
         "front": [
             "purple",
-            "freshGreen",
+            "green",
             "purple",
-            "freshGreen"
+            "green"
         ]
     },
     "basarios": {
@@ -475,8 +475,8 @@
         "back": [
             "pale",
             "pale",
-            "yellowBrown",
-            "yellowBrown"
+            "gold",
+            "gold"
         ],
         "front": [
             "brown",
@@ -491,8 +491,8 @@
         "pattern": "flyingWyvern",
         "rank": "low",
         "back": [
-            "yellowBrown",
-            "yellowBrown",
+            "gold",
+            "gold",
             "pale",
             "pale"
         ],
@@ -534,9 +534,9 @@
         ],
         "front": [
             "orange",
-            "offOrange",
             "orange",
-            "offOrange"
+            "orange",
+            "orange"
         ]
     },
     "greatJaggi": {
@@ -609,6 +609,492 @@
             "orange",
             "hotPink",
             "orange"
+        ]
+    },
+    "congalala": {
+        "name": "Congalala",
+        "location": "Babda Rainforest",
+        "pattern": "fangedBeast",
+        "rank": "high",
+        "back": [
+            "hotPink",
+            "hotPink",
+            "orange",
+            "orange"
+        ],
+        "front": [
+            "cyan",
+            "green",
+            "cyan",
+            "green"
+        ]
+    },
+    "emeraldCongalala": {
+        "name": "Emerald Congalala",
+        "location": "Babda Rainforest",
+        "pattern": "fangedBeast",
+        "rank": "high",
+        "back": [
+            "green",
+            "green",
+            "orange",
+            "orange"
+        ],
+        "front": [
+            "gold",
+            "pink",
+            "gold",
+            "pink"
+        ]
+    },
+    "crimsonQurupeco": {
+        "name": "Crimson Qurupeco",
+        "location": "Babda Rainforest",
+        "pattern": "birdWyvern",
+        "rank": "high",
+        "back": [
+            "orangeRed",
+            "orangeRed",
+            "hotPink",
+            "hotPink"
+        ],
+        "front": [
+            "gold",
+            "red",
+            "gold",
+            "red"
+        ]
+    },
+    "blackGravios": {
+        "name": "Black Gravios",
+        "location": "Babda Rainforest",
+        "pattern": "flyingWyvern",
+        "rank": "high",
+        "back": [
+            "grey",
+            "grey",
+            "cyan",
+            "cyan"
+        ],
+        "front": [
+            "orange",
+            "darkBlue",
+            "orange",
+            "darkBlue"
+        ]
+    },
+    "zinogre": {
+        "name": "Zinogre",
+        "location": "Babda Rainforest",
+        "pattern": "fangedWyvern",
+        "rank": "high",
+        "back": [
+            "cyan",
+            "cyan",
+            "hotPink",
+            "hotPink"
+        ],
+        "front": [
+            "red",
+            "gold",
+            "red",
+            "gold"
+        ]
+    },
+    "rubyBasarios": {
+        "name": "Ruby Basarios",
+        "location": "Pondry Hills",
+        "pattern": "flyingWyvern",
+        "rank": "high",
+        "back": [
+            "green",
+            "green",
+            "pink",
+            "pink"
+        ],
+        "front": [
+            "hotPink",
+            "hotPink",
+            "hotPink",
+            "hotPink"
+        ]
+    },
+    "nargacuga": {
+        "name": "Nargacuga",
+        "location": "Pondry Hills",
+        "pattern": "flyingWyvern",
+        "rank": "high",
+        "back": [
+            "pink",
+            "pink",
+            "darkBlue",
+            "darkBlue"
+        ],
+        "front": [
+            "hotPink",
+            "brown",
+            "hotPink",
+            "brown"
+        ]
+    },
+    "greenNargacuga": {
+        "name": "Green Nargacuga",
+        "location": "Babda Rainforest",
+        "pattern": "flyingWyvern",
+        "rank": "high",
+        "back": [
+            "green",
+            "green",
+            "pale",
+            "pale"
+        ],
+        "front": [
+            "yellow",
+            "electricGreen",
+            "yellow",
+            "electricGreen"
+        ]
+    },
+    "rathalos": {
+        "name": "Rathalos",
+        "location": "Pondry Hills",
+        "pattern": "flyingWyvern",
+        "rank": "high",
+        "back": [
+            "red",
+            "red",
+            "green",
+            "green"
+        ],
+        "front": [
+            "darkBlue",
+            "lightBlue",
+            "darkBlue",
+            "lightBlue"
+        ]
+    },
+    "azureRathalos": {
+        "name": "Azure Rathalos",
+        "location": "Pondry Hills",
+        "pattern": "flyingWyvern",
+        "rank": "high",
+        "back": [
+            "lightBlue",
+            "lightBlue",
+            "pink",
+            "pink"
+        ],
+        "front": [
+            "darkBlue",
+            "orange",
+            "darkBlue",
+            "orange"
+        ]
+    },
+    "purpleGypceros": {
+        "name": "Purple Gypceros",
+        "location": "Babda Rainforest",
+        "pattern": "birdWyvern",
+        "rank": "high",
+        "back": [
+            "purple",
+            "purple",
+            "pink",
+            "pink"
+        ],
+        "front": [
+            "green",
+            "orangeRed",
+            "green",
+            "orangeRed"
+        ]
+    },
+    "ashKechaWacha": {
+        "name": "Ash Kecha Wacha",
+        "location": "Paupau Beach",
+        "pattern": "fangedBeast",
+        "rank": "high",
+        "back": [
+            "purple",
+            "purple",
+            "fadedBlue",
+            "fadedBlue"
+        ],
+        "front": [
+            "gold",
+            "orange",
+            "gold",
+            "orange"
+        ]
+    },
+    "lagiacrus": {
+        "name": "Lagiacrus",
+        "location": "Paupau Beach",
+        "pattern": "leviathan",
+        "rank": "high",
+        "back": [
+            "cyan",
+            "cyan",
+            "pink",
+            "pink"
+        ],
+        "front": [
+            "red",
+            "purple",
+            "red",
+            "purple"
+        ]
+    },
+    "ivoryLagiacrus": {
+        "name": "Ivory Lagiacrus",
+        "location": "Paupau Beach",
+        "pattern": "leviathan",
+        "rank": "high",
+        "back": [
+            "yellow",
+            "yellow",
+            "orange",
+            "orange"
+        ],
+        "front": [
+            "darkBlue",
+            "electricGreen",
+            "darkBlue",
+            "electricGreen"
+        ]
+    },
+    "deviljho": {
+        "name": "Deviljho",
+        "location": "Mt. Celion",
+        "pattern": "bruteWyvern",
+        "rank": "high",
+        "back": [
+            "green",
+            "green",
+            "cyan",
+            "cyan"
+        ],
+        "front": [
+            "red",
+            "electricGreen",
+            "red",
+            "electricGreen"
+        ]
+    },
+    "greatBaggi": {
+        "name": "Great Baggi",
+        "location": "Mt. Celion",
+        "pattern": "birdWyvern",
+        "rank": "high",
+        "back": [
+            "darkBlue",
+            "darkBlue",
+            "fadedBlue",
+            "fadedBlue"
+        ],
+        "front": [
+            "gold",
+            "blue",
+            "gold",
+            "blue"
+        ]
+    },
+    "jadeBarroth": {
+        "name": "Jade Barroth",
+        "location": "Mt. Celion",
+        "pattern": "bruteWyvern",
+        "rank": "high",
+        "back": [
+            "darkGreen",
+            "darkGreen",
+            "gold",
+            "gold"
+        ],
+        "front": [
+            "purple",
+            "lightBlue",
+            "purple",
+            "lightBlue"
+        ]
+    },
+    "barioth": {
+        "name": "Barioth",
+        "location": "Mt. Celion",
+        "pattern": "flyingWyvern",
+        "rank": "high",
+        "back": [
+            "yellow",
+            "yellow",
+            "lightBlue",
+            "lightBlue"
+        ],
+        "front": [
+            "orange",
+            "green",
+            "orange",
+            "green"
+        ]
+    },
+    "sandBarioth": {
+        "name": "Sand Barioth",
+        "location": "Trese Desert",
+        "pattern": "flyingWyvern",
+        "rank": "high",
+        "back": [
+            "orange",
+            "orange",
+            "pink",
+            "pink"
+        ],
+        "front": [
+            "red",
+            "purple",
+            "red",
+            "purple"
+        ]
+    },
+    "stygianZinogre": {
+        "name": "Stygian Zinogre",
+        "location": "Mt. Celion",
+        "pattern": "fangedWyvern",
+        "rank": "high",
+        "back": [
+            "pink",
+            "pink",
+            "darkBlue",
+            "darkBlue"
+        ],
+        "front": [
+            "lightBlue",
+            "yellow",
+            "lightBlue",
+            "yellow"
+        ]
+    },
+    "brachydios": {
+        "name": "Brachydios",
+        "location": "Mt. Celion",
+        "pattern": "bruteWyvern",
+        "rank": "high",
+        "back": [
+            "darkBlue",
+            "darkBlue",
+            "hotPink",
+            "hotPink"
+        ],
+        "front": [
+            "electricGreen",
+            "orange",
+            "electricGreen",
+            "orange"
+        ]
+    },
+    "kirin": {
+        "name": "Kirin",
+        "location": "Monsonne Plains",
+        "pattern": "elder",
+        "rank": "high",
+        "back": [
+            "fadedBlue",
+            "fadedBlue",
+            "gold",
+            "gold"
+        ],
+        "front": [
+            "darkBlue",
+            "hotPink",
+            "darkBlue",
+            "hotPink"
+        ]
+    },
+    "monoblos": {
+        "name": "Monoblos",
+        "location": "Trese Desert",
+        "pattern": "flyingWyvern",
+        "rank": "high",
+        "back": [
+            "orange",
+            "orange",
+            "pink",
+            "pink"
+        ],
+        "front": [
+            "orangeRed",
+            "purple",
+            "orangeRed",
+            "purple"
+        ]
+    },
+    "seregios": {
+        "name": "Seregios",
+        "location": "Pondry Hills",
+        "pattern": "flyingWyvern",
+        "rank": "high",
+        "back": [
+            "gold",
+            "gold",
+            "pink",
+            "pink"
+        ],
+        "front": [
+            "green",
+            "red",
+            "green",
+            "red"
+        ]
+    },
+    "goldRathian": {
+        "name": "Gold Rathian",
+        "location": "Tower Of Illusions - Floor 19",
+        "pattern": "flyingWyvern",
+        "rank": "na",
+        "back": [
+            "gold",
+            "gold",
+            "gold",
+            "gold"
+        ],
+        "front": [
+            "yellow",
+            "yellow",
+            "yellow",
+            "yellow"
+        ]
+    },
+    "silverRathalos": {
+        "name": "Silver Rathalos",
+        "location": "Tower Of Illusions - Floor 29",
+        "pattern": "flyingWyvern",
+        "rank": "na",
+        "back": [
+            "fadedBlue",
+            "fadedBlue",
+            "fadedBlue",
+            "fadedBlue"
+        ],
+        "front": [
+            "darkBlue",
+            "darkBlue",
+            "darkBlue",
+            "darkBlue"
+        ]
+    },
+    "greatPoogie": {
+        "name": "Great Poogie",
+        "location": "Find All Poogies",
+        "pattern": "poogie",
+        "rank": "na",
+        "back": [
+            "purple",
+            "purple",
+            "purple",
+            "purple"
+        ],
+        "front": [
+            "purple",
+            "purple",
+            "purple",
+            "purple"
         ]
     }
 }

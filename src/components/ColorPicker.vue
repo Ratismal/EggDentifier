@@ -1,6 +1,6 @@
 <template>
-  <div class="color-picker-wrapper">
-    <div class="color-picker" @click.prevent="active = !active">
+  <div class="color-picker-wrapper" ref="wrapper">
+    <div class="color-picker" @click.prevent="setActive">
       <span class="color-preview" :style="background(currentColor)" />
       <span class="color-name">{{currentColor ? currentColor.name : 'None Selected'}}</span>
     </div>
@@ -32,8 +32,12 @@ export default {
   data() {
     return {
       active: false,
-      color: this.value
+      color: this.value,
+      boundClick: null
     };
+  },
+  mounted() {
+    this.boundClick = this.onClick.bind(this);
   },
   watch: {
     value(val) {
@@ -45,15 +49,28 @@ export default {
       return this.d.colors[this.color];
     }
   },
+  destroyed() {
+    this.$root.$off("click", this.boundClick);
+  },
   methods: {
+    onClick(event) {
+      console.log(event, event.target);
+      if (!event.path.includes(this.$refs.wrapper)) {
+        this.setActive();
+      }
+    },
     background(color) {
       return { "background-color": color ? color.value : "#000000" };
     },
     selectColor(key) {
       this.color = key;
-      this.active = false;
+      this.setActive();
       this.$emit("input", this.color);
       this.$emit("sync", this.color);
+    },
+    setActive() {
+      this.active = !this.active;
+      this.$root[this.active ? "$on" : "$off"]("click", this.boundClick);
     }
   }
 };

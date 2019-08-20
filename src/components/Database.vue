@@ -1,6 +1,8 @@
 <template>
   <div class="monster-database">
     <h2>Filter</h2>
+    <label>Name</label>
+    <input v-model="filter.name" />
     <label>Location</label>
     <div class="color-wrapper">
       <select v-model="filter.location">
@@ -11,6 +13,7 @@
         <option value></option>
         <option value="low">Low</option>
         <option value="high">High</option>
+        <option value="na">Special</option>
       </select>
     </div>
     <label>Type</label>
@@ -50,7 +53,8 @@ export default {
         front: null,
         type: null,
         location: null,
-        rank: null
+        rank: null,
+        name: null
       }
     };
   },
@@ -65,6 +69,11 @@ export default {
         if (this.filter.location && m.location !== this.filter.location)
           return false;
         if (this.filter.type && m.pattern !== this.filter.type) return false;
+        if (
+          this.filter.name &&
+          !m.name.toLowerCase().includes(this.filter.name.toLowerCase())
+        )
+          return false;
         return true;
       });
     }

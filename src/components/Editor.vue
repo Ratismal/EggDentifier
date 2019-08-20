@@ -11,6 +11,7 @@
       <select v-model="monster.rank">
         <option value="low">Low</option>
         <option value="high">High</option>
+        <option value="na">Special</option>
       </select>
     </div>
     <label>Type</label>

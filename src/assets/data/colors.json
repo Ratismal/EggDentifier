@@ -1,22 +1,18 @@
 {
     "green": {
         "name": "Green",
-        "value": "#73991C"
+        "value": "#74ae21"
     },
     "darkGreen": {
         "name": "Dark Green",
         "value": "#199B52"
     },
-    "freshGreen": {
-        "name": "Fresh Green",
-        "value": "#75C326"
-    },
     "electricGreen": {
         "name": "Electric Green",
         "value": "#6FEA77"
     },
-    "mintGreen": {
-        "name": "Mint Green",
+    "cyan": {
+        "name": "Cyan",
         "value": "#04C798"
     },
     "blue": {
@@ -34,10 +30,6 @@
     "darkBlue": {
         "name": "Dark Blue",
         "value": "#5D70E5"
-    },
-    "cyan": {
-        "name": "Cyan",
-        "value": "#02BCBC"
     },
     "purple": {
         "name": "Purple",
@@ -61,11 +53,7 @@
     },
     "orange": {
         "name": "Orange",
-        "value": "#CE6616"
-    },
-    "offOrange": {
-        "name": "Off Orange",
-        "value": "#DF876C"
+        "value": "#D67641"
     },
     "yellow": {
         "name": "Yellow",
@@ -79,25 +67,17 @@
         "name": "Grey",
         "value": "#6C5E5C"
     },
+    "khaki": {
+        "name": "Khaki",
+        "value": "#928C6E"
+    },
     "pale": {
         "name": "Pale",
         "value": "#E4EAC8"
     },
     "brown": {
         "name": "Brown",
-        "value": "#9F6644"
-    },
-    "chocolate": {
-        "name": "Chocolate",
-        "value": "#A95830"
-    },
-    "khaki": {
-        "name": "Khaki",
-        "value": "#928C6E"
-    },
-    "yellowBrown": {
-        "name": "Yellow Brown",
-        "value": "#EFAA19"
+        "value": "#A45E39"
     },
     "tan": {
         "name": "Tan",

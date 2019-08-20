@@ -150,3 +150,21 @@ pre code {
     white-space: pre-wrap;
     display: block;
 }
+
+.button-group {
+    display: flex;
+
+    .button {
+        background: rgb(49, 194, 138);
+        outline: none;
+        border: none;
+        display: block;
+        flex: 1 0 auto;
+        padding: 1rem;
+        color: white;
+
+        &:hover {
+            background: rgb(98, 207, 165);
+        }
+    }
+}
