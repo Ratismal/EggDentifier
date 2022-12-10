@@ -59,8 +59,7 @@ export default {
           return false;
         if (this.filter.front && m.front !== this.filter.front)
           return false;
-        if (this.filter.rank && m.rank !== this.filter.rank) return false;
-        if (this.filter.location && m.location !== this.filter.location)
+        if (this.filter.location && !m.locations.find(l => l.location == this.filter.location))
           return false;
         if (this.filter.type && m.pattern !== this.filter.type) return false;
         if (
