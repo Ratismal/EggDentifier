@@ -1,0 +1,141 @@
+{
+  "zamtrios": {
+    "name": "Zamtrios",
+    "locations": [
+      {
+        "location": "Loloska",
+        "postGame": false
+      }
+    ],
+    "pattern": "amphibian",
+    "rank": "low",
+    "back": "cyan",
+    "front": "orange"
+  },
+  "blueYianKutKu": {
+    "name": "Blue Yian Kut-Ku",
+    "locations": [
+      {
+        "location": "Alcala",
+        "postGame": false
+      }
+    ],
+    "pattern": "birdWyvern",
+    "rank": "low",
+    "back": "mintGreen",
+    "front": "yellow"
+  },
+  "crimsonQurupeco": {
+    "name": "Crimson Qurupeco",
+    "locations": [
+      {
+        "location": "Pomore Garden",
+        "postGame": false
+      }
+    ],
+    "pattern": "birdWyvern",
+    "rank": "low",
+    "back": "red",
+    "front": "yellow"
+  },
+  "gendrome": {
+    "name": "Gendrome",
+    "locations": [
+      {
+        "location": "Lamure (Desert)",
+        "postGame": false
+      }
+    ],
+    "pattern": "birdWyvern",
+    "rank": "low",
+    "back": "limeGreen",
+    "front": "lightOrange"
+  },
+  "greatBaggi": {
+    "name": "Great Baggi",
+    "locations": [
+      {
+        "location": "Loloska",
+        "postGame": false
+      }
+    ],
+    "pattern": "birdWyvern",
+    "rank": "low",
+    "back": "blue",
+    "front": "yellow"
+  },
+
+  "greatJaggi":{"name":"Great Jaggi","locations":[{"location":"Alcala","postGame":false}],"pattern":"birdWyvern","rank":"low","back":"purple","front":"red"},
+  "gypceros":{"name":"Gypceros","locations":[],"pattern":"birdWyvern","rank":"low","back":"lightBlue","front":"fuchsia"},
+  "iodrome":{"name":"Iodrome","locations":[],"pattern":"birdWyvern","rank":"low","back":"red","front":"darkPurple"},
+  "kulaYaKu":{"name":"Kula Ya-Ku","locations":[],"pattern":"birdWyvern","rank":"low","back":"tan","front":"orange"},
+  "pukeiPukei":{"name":"Pukei-Pukei","locations":[],"pattern":"birdWyvern","rank":"low","back":"darkGreen","front":"tan"},
+  "purpleGypceros":{"name":"Purple Gypceros","locations":[],"pattern":"birdWyvern","rank":"low","back":"darkPurple","front":"green"},
+  "qurupeco":{"name":"Qurupeco","locations":[{"location":"Alcala","postGame":false}],"pattern":"birdWyvern","rank":"low","back":"lightGreen","front":"lightPurple"},
+  "velocidrome":{"name":"Velocidrome","locations":[{"location":"Hakolo","postGame":false}],"pattern":"birdWyvern","rank":"low","back":"lightBlue","front":"orange"},
+  "yianGaruga":{"name":"Yian Garuga","locations":[{"location":"Alcala","postGame":false}],"pattern":"birdWyvern","rank":"low","back":"darkBlue","front":"pink"},
+  "yianKutKu":{"name":"Yian Kut-Ku","locations":[{"location":"Hakolo","postGame":false}],"pattern":"birdWyvern","rank":"low","back":"pink","front":"blue"},
+
+  "anjanath":{"name":"Anjanath","locations":[{"location":"Loloska","postGame":false}],"pattern":"bruteWyvern","rank":"low","back":"pink","front":"black"},
+  "barroth":{"name":"Barroth","locations":[{"location":"Loloska","postGame":false}],"pattern":"bruteWyvern","rank":"low","back":"reddishBrown","front":"orange"},
+  "brachydios":{"name":"Brachydios","locations":[{"location":"Terga","postGame":false}],"pattern":"bruteWyvern","rank":"low","back":"blue","front":"limeGreen"},
+  "deviljho":{"name":"Deviljho","locations":[{"location":"All","postGame":true}],"pattern":"bruteWyvern","rank":"low","back":"green","front":"red"},
+  "fulgurAnjanath":{"name":"Fulgur Anjanath","locations":[{"location":"Loloska","postGame":true}],"pattern":"bruteWyvern","rank":"low","back":"white","front":"red"},
+  "glavenus":{"name":"Glavenus","locations":[{"location":"Loloska","postGame":true},{"location":"Terga","postGame":true}],"pattern":"bruteWyvern","rank":"low","back":"darkBlue","front":"red"},
+  "jadeBarroth":{"name":"Jade Barroth","locations":[{"location":"Loloska","postGame":false}],"pattern":"bruteWyvern","rank":"low","back":"cyan","front":"teal"},
+  "uragaan":{"name":"Uragaan","locations":[{"location":"Terga","postGame":false}],"pattern":"bruteWyvern","rank":"low","back":"yellow","front":"crimson"},
+
+  "arzuros":{"name":"Arzuros","locations":[{"location":"Alcala","postGame":false}],"pattern":"fangedBeast","rank":"low","back":"blue","front":"green"},
+  "ashKechaWacha":{"name":"Ash Kecha Wacha","locations":[{"location":"Lamure (Tower)","postGame":false},{"location":"Hakolo","postGame":true}],"pattern":"fangedBeast","rank":"low","back":"white","front":"orange"},
+  "bulldrome":{"name":"Bulldrome","locations":[{"location":"Hakolo","postGame":false}],"pattern":"fangedBeast","rank":"low","back":"brown","front":"tan"},
+  "congalala":{"name":"Congalala","locations":[{"location":"Loloska (Woodlands)","postGame":false}],"pattern":"fangedBeast","rank":"low","back":"brightPink","front":"limeGreen"},
+  "emeraldCongalala":{"name":"Emerald Congalala","locations":[{"location":"Terga","postGame":false}],"pattern":"fangedBeast","rank":"low","back":"limeGreen","front":"lightOrange"},
+  "gammoth":{"name":"Gammoth","locations":[{"location":"Loloska","postGame":false}],"pattern":"fangedBeast","rank":"low","back":"darkBlue","front":"crimson"},
+  "kechaWacha":{"name":"Kecha Wacha","locations":[{"location":"Loloska","postGame":false}],"pattern":"fangedBeast","rank":"low","back":"lightOrange","front":"red"},
+  "lagombi":{"name":"Lagombi","locations":[{"location":"Loloska","postGame":false}],"pattern":"fangedBeast","rank":"low","back":"tan","front":"darkPurple"},
+
+  "stygianZinogre":{"name":"Stygian Zinogre","locations":[{"location":"Hakolo","postGame":true}],"pattern":"fangedWyvern","rank":"low","back":"darkBlue","front":"tan"},
+  "tobiKadachi":{"name":"Tobi Kadachi","locations":[{"location":"Loloska","postGame":false}],"pattern":"fangedWyvern","rank":"low","back":"white","front":"black"},
+  "zinogre":{"name":"Zinogre","locations":[{"location":"Lamure (Royal Monster)","postGame":false},{"location":"Terga","postGame":false}],"pattern":"fangedWyvern","rank":"low","back":"teal","front":"yellow"},
+
+  "astalos":{"name":"Astalos","locations":[{"location":"Terga","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"black","front":"lightGreen"},
+  "azureRathalos":{"name":"Azure Rathalos","locations":[{"location":"Hakolo","postGame":true}],"pattern":"flyingWyvern","rank":"low","back":"lightBlue","front":"darkCyan"},
+  "barioth":{"name":"Barioth","locations":[{"location":"Loloska","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"tan","front":"orange"},
+  "basarios":{"name":"Basarios","locations":[{"location":"Terga","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"tan","front":"lightBrown"},
+  "bazelgeuse":{"name":"Bazelgeuse","locations":[{"location":"All","postGame":true}],"pattern":"flyingWyvern","rank":"low","back":"white","front":"black"},
+  "bruteTigrex":{"name":"Brute Tigrex","locations":[{"location":"All","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"olive","front":"lightOrange"},
+  "blackDiablos":{"name":"Black Diablos","locations":[{"location":"Lamure","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"olive","front":"grey"},
+  "blackGravios":{"name":"Black Gravios","locations":[{"location":"Terga","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"red","front":"grey"},
+  "diablos":{"name":"Diablos","locations":[{"location":"Lamure","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"tan","front":"lightOrange"},
+  "gravios":{"name":"Gravios","locations":[{"location":"Terga","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"white","front":"lightOrange"},
+  "greenNargacuga":{"name":"Green Nargacuga","locations":[{"location":"Pomore Garden","postGame":false},{"location":"Hakolo","postGame":true}],"pattern":"flyingWyvern","rank":"low","back":"limeGreen","front":"yellow"},
+  "khezu":{"name":"Khezu","locations":[{"location":"Loloska","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"white","front":"fuchsia"},
+  "legiana":{"name":"Legiana","locations":[{"location":"Loloska","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"tan","front":"black"},
+  "monoblos":{"name":"Monoblos","locations":[{"location":"Alcala (Royal Monster)","postGame":false},{"location":"Lamure","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"orange","front":"red"},
+  "nargacuga":{"name":"Nargacuga","locations":[{"location":"Alcala","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"darkBlue","front":"fuchsia"},
+  "paolumu":{"name":"Paolumu","locations":[{"location":"Alcala","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"white","front":"peach"},
+  "pinkRathian":{"name":"Pink Rathian","locations":[{"location":"Pomore Garden","postGame":true}],"pattern":"flyingWyvern","rank":"low","back":"peach","front":"red"},
+  "rathalos":{"name":"Rathalos","locations":[{"location":"Hakolo","postGame":true}],"pattern":"flyingWyvern","rank":"low","back":"red","front":"darkBlue"},
+  "rathian":{"name":"Rathian","locations":[{"location":"Alcala","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"tan","front":"limeGreen"},
+  "redKhezu":{"name":"Red Khezu","locations":[{"location":"Loloska","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"red","front":"peach"},
+  "rubyBasarios":{"name":"Ruby Basarios","locations":[{"location":"Pomore Garden","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"limeGreen","front":"fuchsia"},
+  "sandBarioth":{"name":"Sand Barioth","locations":[{"location":"Hakolo","postGame":true}],"pattern":"flyingWyvern","rank":"low","back":"orange","front":"red"},
+  "seregios":{"name":"Seregios","locations":[{"location":"Hakolo","postGame":true}],"pattern":"flyingWyvern","rank":"low","back":"yellow","front":"red"},
+  "tigrex":{"name":"Tigrex","locations":[{"location":"Lamure","postGame":false}],"pattern":"flyingWyvern","rank":"low","back":"lightOrange","front":"blue"},
+  "whiteMonoblos":{"name":"White Monoblos","locations":[{"location":"Lamure (Royal Monster)","postGame":false},{"location":"Hakolo","postGame":true}],"pattern":"flyingWyvern","rank":"low","back":"tan","front":"grey"},
+  
+  "apceros":{"name":"Apceros","locations":[{"location":"Alcala","postGame":false}],"pattern":"herbivore","rank":"low","back":"orange","front":"tan"},
+  "aptonoth":{"name":"Aptonoth","locations":[{"location":"Hakolo","postGame":false}],"pattern":"herbivore","rank":"low","back":"darkGreen","front":"olive"},
+  "popo":{"name":"Popo","locations":[{"location":"Loloska","postGame":false}],"pattern":"herbivore","rank":"low","back":"reddishBrown","front":"yellow"},
+
+  "ivoryLagiacrus":{"name":"Ivory Lagiacrus","locations":[{"location":"Terga","postGame":false}],"pattern":"leviathan","rank":"low","back":"blue","front":"yellow"},
+  "lagiacrus":{"name":"Lagiacrus","locations":[{"location":"Terga","postGame":false}],"pattern":"leviathan","rank":"low","back":"lightBlue","front":"red"},
+  "mitzutsune":{"name":"Mitzutsune","locations":[{"location":"Pomore Garden","postGame":false}],"pattern":"leviathan","rank":"low","back":"red","front":"tan"}  ,
+  "purpleLudroth":{"name":"Purple Ludroth","locations":[{"location":"Lamure","postGame":false}],"pattern":"leviathan","rank":"low","back":"fuchsia","front":"palePurple"},
+  "royalLudroth":{"name":"Royal Ludroth","locations":[{"location":"Alcala","postGame":false}],"pattern":"leviathan","rank":"low","back":"limeGreen","front":"yellow"},
+
+  "cephadrome":{"name":"Cephadrome","locations":[{"location":"Lamure (Desert)","postGame":false}],"pattern":"piscineWyvern","rank":"low","back":"olive","front":"red"},
+
+  "nerscylla":{"name":"Nerscylla","locations":[{"location":"Loloska","postGame":false}],"pattern":"temnoceran","rank":"low","back":"lightPurple","front":"red"},
+  "shroudedNerscylla":{"name":"Shrouded Nerscylla","locations":[{"location":"Terga","postGame":false}],"pattern":"temnoceran","rank":"low","back":"white","front":"yellow"}
+}

@@ -1,0 +1,32 @@
+Dark Blue,1E1288
+Blue,224EFE
+Light Blue,02ADE3
+Teal,1AFFFE
+Cyan,00C8CB
+Dark Cyan,007383
+Mint Green,00E59F
+Lime Green,81F902
+Light Green,B0FF56
+Green,27C003
+Dark Green,298E16
+Yellow,FFE103
+Orange,FF7900
+Light Orange,FFB403
+Crimson,B83B03
+Red,FF3D17
+Fuchsia,FF588E
+Pink,F763C5
+Bright Pink,FE70FB
+Purple,B265FF
+Light Purple,DD62FF
+Dark Purple,B01896
+Pale Purple,FFD0FF
+Peach,FF9992
+Tan,FCE6C5
+Reddish Brown,CC5202
+Brown,9A603F
+Light Brown,CC8912
+Olive,534712
+Grey,9F9A77
+Black,1A0419
+White,E0EFFF

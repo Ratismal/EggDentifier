@@ -149,6 +149,7 @@ pre code {
     padding: 0.5rem;
     white-space: pre-wrap;
     display: block;
+    word-break: break-all;
 }
 
 .button-group {
@@ -165,6 +166,67 @@ pre code {
 
         &:hover {
             background: rgb(98, 207, 165);
+        }
+    }
+}
+
+header h1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.locations {
+    .location {
+        display: flex;
+        width: 100%;
+        margin-bottom: 1rem;
+        gap: 1rem;
+
+        select {
+            margin: 0;
+            flex: 1 1 auto;
+        }
+
+        label {
+            flex: 1 0 auto;
+            width: 200px;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            justify-content: center;
+            user-select: none;
+            cursor: pointer;
+
+            input {
+                display: inline-block;
+                margin: 0;
+                width: 20px;
+                height: 20px;
+            }
+        }
+
+        button.remove {
+            background: red;
+            color: white;
+            outline: none;
+            border: none;
+        }
+    }
+
+    button.add {
+        margin-bottom: 1rem;
+    }
+}
+
+.mhs2 {
+    .monsters-wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        // gap: 1rem;
+
+        .monster {
+            flex: 0 1 25%;
+            min-width: 180px;
         }
     }
 }

@@ -38,7 +38,7 @@
 </template>
 
 <script>
-import Monster from "@/components/Monster.vue";
+import Monster from "@/components/one/Monster.vue";
 import ColorPicker from "@/components/ColorPicker.vue";
 
 export default {

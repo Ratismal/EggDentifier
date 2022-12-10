@@ -1,0 +1,130 @@
+{
+  "darkBlue": {
+    "name": "Dark Blue",
+    "value": "#1E1288"
+  },
+  "blue": {
+    "name": "Blue",
+    "value": "#224EFE"
+  },
+  "lightBlue": {
+    "name": "Light Blue",
+    "value": "#02ADE3"
+  },
+  "teal": {
+    "name": "Teal",
+    "value": "#1AFFFE"
+  },
+  "cyan": {
+    "name": "Cyan",
+    "value": "#00C8CB"
+  },
+  "darkCyan": {
+    "name": "Dark Cyan",
+    "value": "#007383"
+  },
+  "mintGreen": {
+    "name": "Mint Green",
+    "value": "#00E59F"
+  },
+  "limeGreen": {
+    "name": "Lime Green",
+    "value": "#81F902"
+  },
+  "lightGreen": {
+    "name": "Light Green",
+    "value": "#B0FF56"
+  },
+  "green": {
+    "name": "Green",
+    "value": "#27C003"
+  },
+  "darkGreen": {
+    "name": "Dark Green",
+    "value": "#298E16"
+  },
+  "yellow": {
+    "name": "Yellow",
+    "value": "#FFE103"
+  },
+  "orange": {
+    "name": "Orange",
+    "value": "#FF7900"
+  },
+  "lightOrange": {
+    "name": "Light Orange",
+    "value": "#FFB403"
+  },
+  "crimson": {
+    "name": "Crimson",
+    "value": "#B83B03"
+  },
+  "red": {
+    "name": "Red",
+    "value": "#FF3D17"
+  },
+  "fuchsia": {
+    "name": "Fuchsia",
+    "value": "#FF588E"
+  },
+  "pink": {
+    "name": "Pink",
+    "value": "#F763C5"
+  },
+  "brightPink": {
+    "name": "Bright Pink",
+    "value": "#FE70FB"
+  },
+  "purple": {
+    "name": "Purple",
+    "value": "#B265FF"
+  },
+  "lightPurple": {
+    "name": "Light Purple",
+    "value": "#DD62FF"
+  },
+  "darkPurple": {
+    "name": "Dark Purple",
+    "value": "#B01896"
+  },
+  "palePurple": {
+    "name": "Pale Purple",
+    "value": "#FFD0FF"
+  },
+  "peach": {
+    "name": "Peach",
+    "value": "#FF9992"
+  },
+  "tan": {
+    "name": "Tan",
+    "value": "#FCE6C5"
+  },
+  "reddishBrown": {
+    "name": "Reddish Brown",
+    "value": "#CC5202"
+  },
+  "brown": {
+    "name": "Brown",
+    "value": "#9A603F"
+  },
+  "lightBrown": {
+    "name": "Light Brown",
+    "value": "#CC8912"
+  },
+  "olive": {
+    "name": "Olive",
+    "value": "#534712"
+  },
+  "grey": {
+    "name": "Grey",
+    "value": "#9F9A77"
+  },
+  "black": {
+    "name": "Black",
+    "value": "#1A0419"
+  },
+  "white": {
+    "name": "White",
+    "value": "#E0EFFF"
+  }
+}
